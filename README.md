@@ -1,13 +1,12 @@
 # TextExtract: Effortless Image-to-Text Conversion
 
-Unlock the power of your images with textExtract, a cutting-edge tool designed to seamlessly extract text from any picture. Whether you have a photo of a document, a screenshot of an important message, or any image containing text, textExtract makes it incredibly easy to convert it into editable and searchable text. \
-It uses [Real Time Lens Data](https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-lens-data) API for extracting text from the image and it stores your image in Cloudinary.
+Unlock the power of your images with textExtract, a cutting-edge tool designed to seamlessly extract text from any picture. Whether you have a photo of a document, a screenshot of an important message, or any image containing text, textExtract makes it incredibly easy to convert it into editable and searchable text. 
 
 ## Installation
 
 Step 1: Clone this repository into your local system
 ```bash
-git clone https://github.com/Hawsgard123/textExtract.git
+git clone https://github.com/buttermilk343/Text-Extract.git
 ```
 Step 2: Get the API keys from Cloudinary and Real Time Lens Data.
 ```env
