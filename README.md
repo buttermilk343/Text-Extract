@@ -1,4 +1,4 @@
-# TextExtract: Effortless Image-to-Text Conversion
+# Text-Extract: Effortless Image-to-Text Conversion
 
 Unlock the power of your images with textExtract, a cutting-edge tool designed to seamlessly extract text from any picture. Whether you have a photo of a document, a screenshot of an important message, or any image containing text, textExtract makes it incredibly easy to convert it into editable and searchable text. 
 
